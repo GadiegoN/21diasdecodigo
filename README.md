@@ -6,3 +6,6 @@
 
 ### Dia 2
  Fazer um Hello World customizado com fontes, cores e imagens.
+
+### Dia 3
+ Fazer um botão animado.
