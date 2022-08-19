@@ -9,3 +9,6 @@
 
 ### Dia 3
  Fazer um botão animado.
+
+### Dia 4
+ Fazer uma calculadora
