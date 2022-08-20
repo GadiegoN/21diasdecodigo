@@ -12,3 +12,6 @@
 
 ### Dia 4
  Fazer uma calculadora
+
+### Dia 5
+ Desenvolver uma página customizada que exiba o erro 404.
