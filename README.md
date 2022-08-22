@@ -15,3 +15,6 @@
 
 ### Dia 5
  Desenvolver uma página customizada que exiba o erro 404.
+
+### Dia 6
+ Criar um card com o efeito glassmorphism.
