@@ -18,3 +18,6 @@
 
 ### Dia 6
  Criar um card com o efeito glassmorphism.
+
+### Dia 7
+ Desenvolver um contador.
