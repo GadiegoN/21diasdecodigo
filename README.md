@@ -21,3 +21,6 @@
 
 ### Dia 7
  Desenvolver um contador.
+
+### Dia 8
+ Desenvolver um toggle que altere o tema para claro e escuro.
