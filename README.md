@@ -24,3 +24,6 @@
 
 ### Dia 8
  Desenvolver um toggle que altere o tema para claro e escuro.
+
+### Dia 9
+ Criar uma animação de loading.
