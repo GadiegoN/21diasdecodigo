@@ -27,3 +27,6 @@
 
 ### Dia 9
  Criar uma animação de loading.
+
+### Dia 10
+ Utilizar a lib Particle.js do JavaScript.
